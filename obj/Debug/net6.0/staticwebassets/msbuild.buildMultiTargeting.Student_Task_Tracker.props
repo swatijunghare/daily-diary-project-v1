@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Student_Task_Tracker.props" />
+</Project>

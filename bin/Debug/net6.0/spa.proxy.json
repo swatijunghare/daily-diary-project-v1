@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44410",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\daily diary project-v1\\Student_Task_Tracker\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

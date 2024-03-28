@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\daily diary project-v1\\Student_Task_Tracker\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Student_Task_Tracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Student_Task_Tracker.props",
+      "PackagePath": "build\\Student_Task_Tracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Student_Task_Tracker.props",
+      "PackagePath": "buildMultiTargeting\\Student_Task_Tracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Student_Task_Tracker.props",
+      "PackagePath": "buildTransitive\\Student_Task_Tracker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

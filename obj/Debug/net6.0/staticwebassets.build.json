@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fuJqVATRG4Ljuc9aRc6EMfl0vZ2ylX4KjV9s8tOwP8U=",
+  "Source": "Student_Task_Tracker",
+  "BasePath": "_content/Student_Task_Tracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Student_Task_Tracker\\wwwroot",
+      "Source": "Student_Task_Tracker",
+      "ContentRoot": "D:\\daily diary project-v1\\Student_Task_Tracker\\wwwroot\\",
+      "BasePath": "_content/Student_Task_Tracker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\daily diary project-v1\\Student_Task_Tracker\\wwwroot\\favicon.ico",
+      "SourceId": "Student_Task_Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\daily diary project-v1\\Student_Task_Tracker\\wwwroot\\",
+      "BasePath": "_content/Student_Task_Tracker",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

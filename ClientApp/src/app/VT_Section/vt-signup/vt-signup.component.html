@@ -1,0 +1,113 @@
+
+<!-------------------------------------------------------->
+
+<div class="container-fluid h-custom">
+    <div class="row d-flex justify-content-center align-items-center h-100" style="background-color: rgb(175, 220, 206);">
+        <div class="col-4">
+            <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                class="img-fluid" alt="Sample image">
+        </div>
+        <div class="col-5 pt-3 pb-4 rounded" style="background-color: azure;">
+            <form [formGroup]="signupForm">
+                <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+                    <p class="lead fw-normal mb-0 me-3">SignUp</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">First Name</label>
+                            <input type="fname" id="form3Example3" class="form-control"
+                                placeholder="Enter First Name" formControlName="fname" />
+                            <!-- <div *ngIf="f('fname')?.errors && f('fname')?.touched" style="color: red;">
+                                <small *ngIf="f('fname')?.errors?.['required']">*First Name is required</small>
+                              </div> -->
+                        </div>
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Mobile</label>
+                            <input type="mobile" id="form3Example3" class="form-control"
+                                placeholder="Enter Mobile No" formControlName="mobile" />
+                            <!-- <div *ngIf="f('mobile')?.errors && f('mobile')?.touched" style="color: red;">
+                                <small *ngIf="f('mobile')?.errors?.['required']">*Mobile No Is Required</small>
+                              </div> -->
+                        </div>
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Date Of Birth</label>
+                            <input type="date" id="form3Example3" class="form-control"
+                                placeholder="Enter Date Of Birth" formControlName="dob" />
+                            <!-- <div *ngIf="f('emailId')?.errors && f('emailId')?.touched" style="color: red;">
+                                <small *ngIf="f('emailId')?.errors?.['required']">*Email Id Is Required</small>
+                              </div> -->
+                        </div>
+                        <div class="form-outline mb-3 form-group">
+                            <label class="form-label" for="form3Example4">Password</label>
+                            <input type="password" id="form3Example4" class="form-control"
+                                placeholder="Enter password" formControlName="password" />
+                            <!-- <div *ngIf="f('password')?.errors && f('password')?.touched" style="color: red;">
+                              <small *ngIf="f('password')?.errors?.['required']">*Password Is Required</small>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Last Name</label>
+                            <input type="lname" id="form3Example3" class="form-control"
+                                placeholder="Enter Last Name" formControlName="lname" />
+                            <!-- <div *ngIf="f('lname')?.errors && f('lname')?.touched" style="color: red;">
+                            <small *ngIf="f('lname')?.errors?.['required']">*Last Name Is Required</small>
+                          </div> -->
+                        </div>
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Email address</label>
+                            <input type="email" id="form3Example3" class="form-control"
+                                placeholder="Enter a valid email address" formControlName="emailId" />
+                            <!-- <div *ngIf="f('emailId')?.errors && f('emailId')?.touched" style="color: red;">
+                            <small *ngIf="f('emailId')?.errors?.['required']">*Email Id Is Required</small>
+                          </div> -->
+                        </div>
+                       
+                        <div class="form-group form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Qualification</label>
+                            <input type="text" id="form3Example3" class="form-control"
+                                placeholder="Enter Qualification" formControlName="qualification" />
+                            <!-- <div *ngIf="f('emailId')?.errors && f('emailId')?.touched" style="color: red;">
+                                <small *ngIf="f('emailId')?.errors?.['required']">*Email Id Is Required</small>
+                              </div> -->
+                        </div>
+                        <div class="form-group form-outline pt-2 mb-4">
+                            <label class="form-label">Gender</label>
+                            <div class="form-check">
+                                <input type="radio" name="gender" value="M" formControlName="gender">
+                                <label class="form-check-label" for="maleCheckbox">Male</label>
+                                <!-- </div>
+                            <div class="form-check"> -->
+                                <input type="radio" name="gender" value="F" formControlName="gender">
+                                <label class="form-check-label" for="femaleCheckbox">Female</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-4 pt-2">
+                    <button type="button" class="btn btn-primary btn-lg"
+                            style="padding-left: 2.5rem; padding-right: 2.5rem;"
+                            (click)="signup()">SignUp</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+

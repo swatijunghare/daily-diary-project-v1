@@ -1,0 +1,124 @@
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\spa.proxy.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\appsettings.Development.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\appsettings.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.staticwebassets.runtime.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.exe
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.deps.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.runtimeconfig.json
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.pdb
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.AssemblyReference.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\spa.proxy.json
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfoInputs.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfo.cs
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.CoreCompileInputs.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cs
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.build.json
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.development.json
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\scopedcss\bundle\Student_Task_Tracker.styles.css
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.CopyComplete
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.dll
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\refint\Student_Task_Tracker.dll
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.pdb
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.genruntimeconfig.cache
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\ref\Student_Task_Tracker.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\MySqlConnector.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project angular\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project angular\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cs
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\appsettings.Development.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\appsettings.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\spa.proxy.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.staticwebassets.runtime.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.exe
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.deps.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.runtimeconfig.json
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.pdb
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\MySqlConnector.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\copy of daily diary project\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.AssemblyReference.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\spa.proxy.json
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfoInputs.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfo.cs
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.CoreCompileInputs.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cs
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cs
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.build.json
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.development.json
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.Student_Task_Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Task_Tracker.props
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Task_Tracker.props
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Task_Tracker.props
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.pack.json
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\scopedcss\bundle\Student_Task_Tracker.styles.css
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_.B16F4380.Up2Date
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.dll
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\refint\Student_Task_Tracker.dll
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.pdb
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.genruntimeconfig.cache
+D:\copy of daily diary project\Student_Task_Tracker\obj\Debug\net6.0\ref\Student_Task_Tracker.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\appsettings.Development.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\appsettings.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\spa.proxy.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.staticwebassets.runtime.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.exe
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.deps.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.runtimeconfig.json
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Student_Task_Tracker.pdb
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\MySqlConnector.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\daily diary project-v1\Student_Task_Tracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.AssemblyReference.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\spa.proxy.json
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfoInputs.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.AssemblyInfo.cs
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.csproj.CoreCompileInputs.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cs
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.MvcApplicationPartsAssemblyInfo.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.RazorAssemblyInfo.cs
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.build.json
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.development.json
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.Student_Task_Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Task_Tracker.props
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Task_Tracker.props
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Task_Tracker.props
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\staticwebassets.pack.json
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\scopedcss\bundle\Student_Task_Tracker.styles.css
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_.B16F4380.Up2Date
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.dll
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\refint\Student_Task_Tracker.dll
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.pdb
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\Student_Task_Tracker.genruntimeconfig.cache
+D:\daily diary project-v1\Student_Task_Tracker\obj\Debug\net6.0\ref\Student_Task_Tracker.dll

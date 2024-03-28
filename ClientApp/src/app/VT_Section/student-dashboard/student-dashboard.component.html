@@ -1,0 +1,57 @@
+
+
+<div class="row">
+    <div class="col-6"><app-nav-menu></app-nav-menu></div>
+    <div class="col-6">
+      <div class="row">
+        <div class="col"><div class="d-flex justify-content-end mt-3">
+          <button (click)="go_to_login()" class="btn btn-success">Login</button>
+        </div>
+      </div>
+      </div>
+      
+      <table class="table mt-3">
+        <thead>
+          <tr>
+            <th scope="col">Full Name</th>
+            <!-- <th scope="col">Email</th>
+            <th scope="col">Mobile</th>
+            <th scope="col">Academic Year</th> -->
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let data of studentData">
+            <td>{{data.fullname}}</td>
+            <!-- <td>{{data.email}}</td>
+            <td>{{data.mobile}}</td>
+            <td>{{data.academicyear}}</td> -->
+            <td><button class="btn btn-info" (click)="selectStudent(data.stud_Id)">Select Student</button></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!--------------->
+      <table class="table mt-3" *ngIf="selectedStudent">
+        <thead>
+          <tr>
+            <th scope="col">Full Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Mobile</th>
+            <th scope="col">Academic Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{ selectedStudent.fullname }}</td>
+            <td>{{ selectedStudent.email }}</td>
+            <td>{{ selectedStudent.mobile }}</td>
+            <td>{{ selectedStudent.academicyear }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+
+
